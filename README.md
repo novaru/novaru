@@ -6,4 +6,5 @@ I'm a CS student enthusiastic about math and system programming.
 </p>
 -->
 
-![](https://raw.githubusercontent.com/novaru/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/novaru/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/novaru/github-stats/master/generated/languages.svg#gh-light-mode-only)
