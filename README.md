@@ -1,10 +1,16 @@
-I'm a CS student enthusiastic about math and system programming.
+```clj
+(def profile
+  {:name "Febriyan Naufal Ahza"
+   :role "Backend & Systems Engineer"
 
-<!--
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=novaru&show_icons=true&theme=codeSTACKr&layout=compact&hide=hack,css,html,scss,javascript" alt="novaru" />
-</p>
--->
+   :interests [:systems :networking :devops :low-level :math]
 
-![](https://raw.githubusercontent.com/novaru/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/novaru/github-stats/master/generated/languages.svg#gh-light-mode-only)
+   :languages
+   {:comfortable [:go :typescript :python]
+    :familiar    [:rust :c :lua :php]
+    :learning    [:zig :haskell :clojure]}
+
+   :tools [:linux :neovim :git :docker :postgresql]
+
+   :values [:clarity :correctness :learning]})
+```
